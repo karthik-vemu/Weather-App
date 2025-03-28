@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    height: 50px;
+}
+
+.container{
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    background: rgb(138, 53, 53);
+    border-radius: 8px;
+    box-shadow: 0 0 10px gray;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    border-radius: 4px;
+    padding: 8px;
+    width: 80%;
+}
+
+button{
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+button:hover{
+    background: rgb(213, 136, 137);
+}
+
+.weather-info{
+    margin-top: 15px;
+}
